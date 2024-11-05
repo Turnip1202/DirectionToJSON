@@ -1,0 +1,30 @@
+[
+    {
+        "name": ".git",
+        "rootPath": "D:\\ACode\\Code_test\\TypeScript\\DirectionToJSON\\.git",
+        "paths": [],
+        "tags": [],
+        "enabled": true
+    },
+    {
+        "name": ".idea",
+        "rootPath": "D:\\ACode\\Code_test\\TypeScript\\DirectionToJSON\\.idea",
+        "paths": [],
+        "tags": [],
+        "enabled": true
+    },
+    {
+        "name": "src",
+        "rootPath": "D:\\ACode\\Code_test\\TypeScript\\DirectionToJSON\\src",
+        "paths": [],
+        "tags": [],
+        "enabled": true
+    },
+    {
+        "name": "tests",
+        "rootPath": "D:\\ACode\\Code_test\\TypeScript\\DirectionToJSON\\tests",
+        "paths": [],
+        "tags": [],
+        "enabled": true
+    }
+]
