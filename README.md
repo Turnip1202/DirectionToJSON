@@ -1,0 +1,2 @@
+# DirectionToJSON
+用于VSCode的拓展Project Manager，对目录进行一键生成得到Project Manager所需要的JSON数据
